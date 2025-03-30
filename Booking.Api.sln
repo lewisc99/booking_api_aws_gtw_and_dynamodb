@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi.Create", "BookingApi.Create\BookingApi.Create.csproj", "{91A52934-A5B5-42C5-82B5-322287393702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi.Delete", "BookingApi.Delete\BookingApi.Delete.csproj", "{BBC3A0CE-056C-4C60-9053-B33DD40B44CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{91A52934-A5B5-42C5-82B5-322287393702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A52934-A5B5-42C5-82B5-322287393702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A52934-A5B5-42C5-82B5-322287393702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC3A0CE-056C-4C60-9053-B33DD40B44CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3A0CE-056C-4C60-9053-B33DD40B44CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3A0CE-056C-4C60-9053-B33DD40B44CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3A0CE-056C-4C60-9053-B33DD40B44CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
